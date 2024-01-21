@@ -25,7 +25,7 @@ cd vin-chateau-template
 `.env`，將裡面的環境變數設定為你的值。
 
 ```bash
-.env
+
 ```
 
 ### 安裝套件

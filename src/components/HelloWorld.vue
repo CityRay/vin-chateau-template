@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button type="button" class="btn btn-primary" @click="increment">count is {{ count }}</button>
+    <button type="button" class="btn btn-outline-warning" @click="increment">hello count is {{ count }}</button>
   </div>
 </template>
 
